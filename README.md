@@ -1,9 +1,26 @@
-### Hi there 👋
+<div align="center">
 
-🦢 I'm Goose
+<img src="https://github.com/honkling/honkling/blob/master/goosewaddle.gif" /><br />
+<h1>Hey there, I'm honkling 👋</h1><br />
 
-🔨 Currently working on: a Minehut API wrapper.
+</div>
 
-😳 Pronouns: he/him
+<h2>Main Projects</h2>
+- tracc (Joins a Minecraft server with an account, and logs all chat messages to a Discord server. Discord messages are echoed back)<br />
+- Lil Honk (Moderation and Utility discord bot)<br />
+- Card Jitsu (Discord bot that allows you to play the Club Penguin card game, Card Jitsu!) <br />
 
-📚 Currently learning: TypeScript, Java
+<h2>Side Projects</h2>
+- minehut.xyz (Manager)
+- Sokobot (Discord bot that allows you to play Sokoban)
+- command-handler (Name undecided, yet another discord.js command handler.)
+
+<h2>Used languages</h2>
+- Javascript
+- Python
+- Typescript (a little bit)
+
+<br />
+
+![honkling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=honkling&show_icons=true&theme=dracula)<br />
+![honkling's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honkling&show_icons=true&theme=dracula)<br />
