@@ -11,7 +11,6 @@
 - Card Jitsu (Discord bot that allows you to play the Club Penguin card game, Card Jitsu!) <br />
 
 <h2>Side Projects</h2>
-- minehut.xyz (Manager)<br />
 - Sokobot (Discord bot that allows you to play Sokoban)<br />
 - command-handler (Name undecided, yet another discord.js command handler.)<br />
 
