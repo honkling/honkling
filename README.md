@@ -7,12 +7,10 @@
 
 <h2>Main Projects</h2>
 - tracc (Joins a Minecraft server with an account, and logs all chat messages to a Discord server. Discord messages are echoed back)<br />
-- Lil Honk (Moderation and Utility discord bot)<br />
-- Card Jitsu (Discord bot that allows you to play the Club Penguin card game, Card Jitsu!) <br />
+- honkore (Minecraft server core, includes reports, vanish, punishments, staff chat, etc)
 
 <h2>Side Projects</h2>
-- Sokobot (Discord bot that allows you to play Sokoban)<br />
-- command-handler (Name undecided, yet another discord.js command handler.)<br />
+- CLIcord (Discord CLI client written in Python)
 
 <br />
 
