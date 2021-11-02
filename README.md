@@ -6,11 +6,11 @@
 </div>
 
 <h2>Main Projects</h2>
-- tracc (Joins a Minecraft server with an account, and logs all chat messages to a Discord server. Discord messages are echoed back)<br />
+- Minehut+ (A browser extension that improves the look of the Minehut dashboard)<br />
 - honkore (Minecraft server core, includes reports, vanish, punishments, staff chat, etc)
 
 <h2>Side Projects</h2>
-- CLIcord (Discord CLI client written in Python)
+- Minehut+ (A Fabric mod that improves the experience of the Minehut lobby)<br />
 
 <br />
 
